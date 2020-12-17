@@ -1,3 +1,6 @@
 class hello {
 
+  void hello() {
+
+  }
 }
